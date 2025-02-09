@@ -14,6 +14,6 @@ Soy un entusiasta de la tecnología y el desarrollo de software. Me encanta crea
 
 📲 Encuéntrame en:
 🔗 [LinkedIn](https://www.linkedin.com/in/ruben-salido-347689236/)
-🌍 [Mi web](www.rubensalido.es)
+🌍 [Mi web](https://www.rubensalido.es)
 
 🚀 Siempre aprendiendo y creando. ¡Hablemos sobre tecnología!
