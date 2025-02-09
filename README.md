@@ -1,16 +1,19 @@
-¡Hola mundo! Soy Ruben Salido  👨‍💻
-FullStack Developer
+👋 ¡Hola, mundo! Soy Rubén Salido
+💻 FullStack Developer | Apasionado por la tecnología
+Soy un entusiasta de la tecnología y el desarrollo de software. Me encanta crear aplicaciones útiles que resuelvan problemas del día a día y mejoren la vida de las personas. Siempre estoy explorando nuevas herramientas y tecnologías para seguir creciendo como desarrollador.
 
-Soy un apasionado de la tecnologia y de lo digital y actualmente soy programador.
+🚀 Tecnologías y herramientas
+💾 Backend: Java | PHP | C# | Node.js
+🎨 Frontend: JavaScript | Vue.js | HTML | CSS | JSON
+☁️ Infraestructura: AWS | Ubuntu | Windows
+🗄️ Bases de datos: MySQL | MariaDB
 
-Mi objetivo es crear aplicacion útiles para la gente y que resuelvan problemas del dia a dia.
+🎓 Formación
+📚 Grado Medio: Sistemas Microinformáticos y Redes
+📚 Grado Superior: Desarrollo de Aplicaciones Web
 
-💾 Lenguajes y tecnologías que manejo con soltura.
-Java JavaScript PHP C# NodeJS Vue.js HTML CSS JSON  AWS MySQL MariaDB Ubuntu Windows
+📲 Encuéntrame en:
+🔗 LinkedIn
+🌍 Website
 
-🎓 Estudios
-  - Grado Medio en Sistemas Microinformáticos y Redes
-  - Grado Superior en Desarrollo de Aplicaciones Web
-
-📱 Links
-LinkedIn Website
+🚀 Siempre aprendiendo y creando. ¡Hablemos sobre tecnología!
