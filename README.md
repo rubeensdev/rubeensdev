@@ -1,7 +1,16 @@
-Hi, I’m Ruben Salido (@rubeensdev) 
+¡Hola mundo! Soy Ruben Salido  👨‍💻
+FullStack Developer
 
--  I’m currently learning web development.
--  I’m looking to collaborate on Java Proyects.
+Soy un apasionado de la tecnologia y de lo digital y actualmente soy programador.
 
+Mi objetivo es crear aplicacion útiles para la gente y que resuelvan problemas del dia a dia.
 
-@rubeeen.s on Instragram
+💾 Lenguajes y tecnologías que manejo con soltura.
+Java JavaScript PHP C# NodeJS Vue.js HTML CSS JSON  AWS MySQL MariaDB Ubuntu Windows
+
+🎓 Estudios
+  - Grado Medio en Sistemas Microinformáticos y Redes
+  - Grado Superior en Desarrollo de Aplicaciones Web
+
+📱 Links
+LinkedIn Website
