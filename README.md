@@ -16,7 +16,8 @@ Java  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg
 #### ☁️ **Infraestructura**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="20" height="20"> AWS  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Ubuntu" width="20" height="20"> Ubuntu  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="Windows" width="20" height="20"> Windows  
 
-#### 🗄️ **Bases de datos**  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySQL" width="20" height="20"> MySQL 
+#### 🗄️ **Bases de datos**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySQL" width="20" height="20"> MySQL 
 
 ---
 
