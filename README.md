@@ -1,5 +1,5 @@
 👋 ¡Hola, mundo! Soy **Rubén Salido**  
-💻 **FullStack Developer** | Apasionado por la tecnología  
+💻 **FullStack Developer** 
 
 Soy un entusiasta de la tecnología y el desarrollo de software. Me encanta crear aplicaciones útiles que resuelvan problemas del día a día y mejoren la vida de las personas. Siempre estoy explorando nuevas herramientas y tecnologías para seguir creciendo como desarrollador.
 
@@ -24,6 +24,7 @@ Java  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg
 ### 🎓 **Formación**  
 📚 **Grado Medio**: Sistemas Microinformáticos y Redes  
 📚 **Grado Superior**: Desarrollo de Aplicaciones Web  
+📚 **Grado Superior**: Desarrollo de Aplicaciones Multiplataforma (BUSCO PRACTICAS)  
 
 ---
 
@@ -33,4 +34,3 @@ Java  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg
 
 ---
 
-🚀 **Siempre aprendiendo y creando.!**
